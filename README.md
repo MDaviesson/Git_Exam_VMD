@@ -1,3 +1,3 @@
 # Git_Exam_VMD
-#Mariah and Nathan go on a git adventure
-
+# I love github and big data
+# Wir lieben github und gross data 
